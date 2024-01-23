@@ -1,0 +1,16 @@
+#These settings are shared across an entire server.  If multiworld is enabled, they act as the default values for the individual world properties; otherwise, they are used directly.
+#Tue Oct 17 13:53:56 SAMT 2017
+Messages.enableAll=true
+Messages.REMOVE_ENTITY=false
+Messages.PLUGIN_CHANNEL_MESSAGE=false
+Messages.INFO=true
+LinkedWorlds=
+Messages.ON_GUI_CLOSED_INFO=true
+Messages.ON_GUI_CLOSED_WARNING=true
+Messages.UPDATE_DEBUG=false
+Messages.LOAD_TILE_ENTITY=false
+ServerName=play.cristalix.ru
+Messages.ON_WORLD_LOAD=false
+Messages.ON_CHUNK_NO_LONGER_NEEDED=false
+Messages.SAVING=true
+LastSaved=1508234022424

@@ -1,0 +1,7 @@
+scoreboard:
+  title: "&fCristalixCore Hub"
+  lines:
+    - "&aОчки:"
+    - "&bСтрока 1"
+    - "&cСтрока 2"
+    - "&dСтрока 3"

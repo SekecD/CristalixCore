@@ -1,0 +1,12 @@
+name: cristalixOne
+version: '1.0-SNAPSHOT'
+main: org.cristalixcore.cristalixone.CristalixOne
+api-version: '1.16'
+commands:
+  fly:
+  lobbyselector:
+  csetpref:
+  gamemode:
+  gmc:
+  core:
+
